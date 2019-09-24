@@ -1,0 +1,2 @@
+OrderNumber||CustomerName||State||TaxRate||ProductType||Area||CostPerSquareFoot||LaborCostPerSquareFoot||MaterialCost||LaborCost||Tax||Total
+1||2/20/2019 5:35:25 PM||P||MI||5.75||Tile||100||0||0||0||0||0.0000||0.0000
